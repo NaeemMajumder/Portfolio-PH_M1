@@ -37,7 +37,7 @@
 
 header{
     background-color: var(--background);
-    background-image: url("/images/developer.png");
+    background-image: url("../images/developer.png");
     background-repeat: no-repeat;
     background-position:left center;
 }
@@ -85,7 +85,7 @@ nav ul li a{
 
 .hero-area{
     background-color: var(--background);
-    background-image: url("/images/header_bg.png");
+    background-image: url("../images/header_bg.png");
     background-repeat: no-repeat;
     background-position: bottom right;
     display: flex;
@@ -370,7 +370,7 @@ textarea{
     padding: 18px 30px;
     font-size: 16px;
     font-weight: 400;
-    color: var(--dark-3);
+    color: var(--dark-1);
     border: none;
     border-radius: 5px;
     resize: none;
